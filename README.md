@@ -3,9 +3,10 @@
 This project is part of the **groMO Samudaay** initiative to intelligently connect grassroots partners (GPs) through features such as onboarding, chat analysis, intelligent search, summarization, and personalization using ML and LLMs.
 
 ![Alt text](1750018371945.jpg)
-![Alt text](1750018372027.jpg)
 ![Alt text](1750018372211.jpg)
 ![Alt text](1750018372079.jpg)
+![Alt text](1750018372027.jpg)
+
 
 ## Features
 
